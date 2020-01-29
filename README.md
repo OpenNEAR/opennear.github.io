@@ -1,2 +1,2 @@
-semanttica.github.io
+OpenNEAR.github.io
 ====================
